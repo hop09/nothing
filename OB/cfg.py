@@ -1,5 +1,9 @@
+
 from typing import Any
 
+__author__ = 'Muhammad Hamza'
+__github__ = 'https://github.com/hop09'
+__facebook__ = 'https://m.facebook.com/hopoffocials'
 
 class ConfigValue:
     def __init__(self, desc: str, default: Any):
